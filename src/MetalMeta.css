@@ -1,0 +1,17 @@
+.metal-meta {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(216, 95, 79);
+    color: #fff;
+    box-sizing: border-box;
+    width: 100%;
+    /* justify-content: center; */
+    /* align-items: baseline; */
+    padding: 1em;
+    margin-bottom: 2em;
+}
+.MetalList {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}

@@ -1,0 +1,14 @@
+.metal-card {
+    width: 33%;
+    text-align: center;
+    background-color: rgb(192, 45, 26);
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    /* box-sizing: border-box; */
+    /* display: flex; */
+    justify-content: center;
+    /* align-items: baseline; */
+    /* padding: 1em;
+    margin-bottom: 2em; */
+}
